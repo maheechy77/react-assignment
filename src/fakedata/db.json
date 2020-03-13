@@ -1,0 +1,137 @@
+[
+    {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "img": "https://randomuser.me/api/portraits/women/65.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "phone": "010-692-6593 x09125",
+    "img": "https://randomuser.me/api/portraits/men/55.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "phone": "1-463-123-4447",
+    "img": "https://randomuser.me/api/portraits/women/55.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "phone": "493-170-9623 x156",
+    "img": "https://randomuser.me/api/portraits/women/82.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "phone": "(254)954-1289",
+    "img": "https://randomuser.me/api/portraits/women/23.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "phone": "1-477-935-8478 x6430",
+    "img": "https://randomuser.me/api/portraits/women/35.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "phone": "210.067.6132",
+    "img": "https://randomuser.me/api/portraits/men/45.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "phone": "586.493.6943 x140",
+    "img": "https://randomuser.me/api/portraits/men/85.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "Chaim_McDermott@dana.io",
+    "phone": "(775)976-6794 x41206",
+    "img": "https://randomuser.me/api/portraits/women/50.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "phone": "024-648-3804",
+    "img": "https://randomuser.me/api/portraits/men/13.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 11,
+    "name": "Mrs. Jane Deo",
+    "username": "Jane_Deo",
+    "email": "Jane_Deo@jasper.info",
+    "phone": "1-588-936-8479 x6460",
+    "img": "https://randomuser.me/api/portraits/women/16.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 12,
+    "name": "Mr. John Deo",
+    "username": "John_Deo",
+    "email": "John_Deo@jasper.info",
+    "phone": "1-864-925-8453 x8430",
+    "img": "https://randomuser.me/api/portraits/men/12.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 13,
+    "name": "Mrs. Kulsum Begum",
+    "username": "Kulsum_Begum",
+    "email": "Kulsum_Begum@jasper.info",
+    "phone": "1-447-964-8426 x2460",
+    "img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 14,
+    "name": "Mr. Kamal Uddin",
+    "username": "Kamal_Uddin",
+    "email": "Kamal_Uddin@jasper.info",
+    "phone": "1-237-963-2568 x2570",
+    "img": "https://randomuser.me/api/portraits/men/25.jpg",
+    "salary": "20000"
+    },
+    {
+    "id": 15,
+    "name": "Mr. Jamal",
+    "username": "Jamal",
+    "email": "jamal@jasper.info",
+    "phone": "1-737-932-6368 x6346",
+    "img": "https://randomuser.me/api/portraits/men/35.jpg",
+    "salary": "20000"
+    }
+    ]
